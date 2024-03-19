@@ -47,7 +47,7 @@ MovIt is licensed under the MIT License. Feel free to use, modify, and distribut
 - **Content Delivery Network (CDN)**: Explored the use of CDNs to efficiently deliver libraries and resources, optimizing website loading speed and performance.
 - **Documentation and Communication**: Developed skills in writing clear and concise documentation, such as this README, to effectively communicate project details, technologies used, and lessons learned to potential users and collaborators.
 
-- ## for any questions
+## for any questions
 
 ```
 if(haveAnyQuestions){
