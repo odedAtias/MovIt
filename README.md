@@ -2,6 +2,8 @@
 
 Welcome to MovIt - your ultimate solution for stress-free moving experiences! MovIt is a web platform dedicated to providing exceptional moving services to customers across the United States. Whether you're relocating locally or across the country, we're here to make your move as seamless and enjoyable as possible.
 
+![mvoit](movit.png)
+
 ## Table of Contents 
 1. About MovIt
 2. Features
